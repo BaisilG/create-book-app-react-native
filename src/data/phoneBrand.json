@@ -1,0 +1,35 @@
+[
+    {
+        "label": "apple",
+        "value":"apple"
+        
+    },
+    {
+        
+        "label": "sony",
+        "value":"sony"
+    },
+    {
+       "label": "samsung",
+        "value":"samsung"
+    },
+    {
+        "label": "nokia",
+        "value":"nokia"
+
+    },
+    {
+        "label": "huawei",
+        "value":"huawei"
+    },
+    {
+        "label": "oppo",
+        "value":"oppo"
+    },
+    {
+        "label": "micromax",
+        "value":"micromax"
+    }
+   
+
+]

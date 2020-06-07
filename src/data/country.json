@@ -1,0 +1,64 @@
+[
+    {
+        "label": "nepal",
+            "value":"nepal"
+    },
+    {
+        "label": "india",
+            "value":"india"
+    },
+    {
+        "label": "bhutan",
+            "value":"bhutan"
+    },
+    {
+        "label": "pakistan",
+            "value":"pakistan"
+    },
+    {
+        "label": "srilanka",
+            "value":"srilanka"
+    },
+    {
+        "label": "usa",
+            "value":"usa"
+    },
+    {
+        "label": "uae",
+        "value":"uae"
+    },
+    {
+        "label": "china",
+            "value":"china"
+    },
+    {
+        "label": "bangaladesh",
+            "value":"bangaladesh"
+    },
+    {
+        "label": "japna",
+            "value":"japan"
+    },
+    {
+        "label": "australia",
+            "value":"australia"
+    },
+    {
+        "label": "finland",
+        "value":"finladn"
+    },
+    {
+        "label": "greece",
+            "value":"greece"
+    },
+    {
+        "label": "egypt",
+            "value":"egypt"
+    },
+    {
+        "label": "turkey",
+            "value":"turkey"
+    }
+   
+
+]
