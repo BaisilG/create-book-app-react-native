@@ -11,3 +11,7 @@ this app simply save, delete and search the users with name, email, country and 
 3) enter command "npm install"
 4) i) to run on ios device hit command "react-native run-ios" 
    ii) to run on android device hit command "react-native run-android" 
+
+
+   in next update we will give the instruction to do what in the next 
+   
